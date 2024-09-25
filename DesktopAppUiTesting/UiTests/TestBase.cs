@@ -12,7 +12,7 @@ public class TestBase
 {
     private const string WindowsApplicationDriverUrl = "http://127.0.0.1:4723";
     // private const string ApplicationPath = @"..\..\..\..\TestedApp\bin\Debug\net6.0-windows\TestedApp.exe";
-    private const string ApplicationPath = @"D:\Repo\DesktopAppUiTesting\DesktopAppUiTesting\TestedApp\bin\Debug\net6.0-windows\TestedApp.exe";
+    private const string ApplicationPath = @"D:\Repo\DesktopAppUiTesting\DesktopAppUiTesting\TestedApp\bin\Debug\net8.0-windows\TestedApp.exe";
     private const string DeviceName = "WindowsPC";
     private const int WaitForAppLaunch = 5;
     private const string WinAppDriverPath = @"C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe";

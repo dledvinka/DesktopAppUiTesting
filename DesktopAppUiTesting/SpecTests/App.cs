@@ -11,7 +11,7 @@ public static class App
 
     // private const string ApplicationPath = @"..\..\..\..\TestedApp\bin\Debug\net6.0-windows\TestedApp.exe";
     private const string ApplicationPath =
-        @"D:\Repo\DesktopAppUiTesting\DesktopAppUiTesting\TestedApp\bin\Debug\net6.0-windows\TestedApp.exe";
+        @"D:\Repo\DesktopAppUiTesting\DesktopAppUiTesting\TestedApp\bin\Debug\net8.0-windows\TestedApp.exe";
 
     private const string DeviceName = "WindowsPC";
     private const int WaitForAppLaunch = 5;
